@@ -1,0 +1,37 @@
+.p{
+    color: mediumblue;
+}
+
+.line{
+    
+    display: inline-block;
+    /* border: 3px solid white; */
+    margin: 40px;
+    width: 200px;
+}
+
+.line:hover{
+    transform: scale(1.05,1.05);
+}
+
+img{
+    width: auto;
+    height: auto;
+}
+
+h3, 
+p, 
+img {
+    padding: 3px;
+    color: rgb(2, 2, 2);
+}
+
+.color{
+    color: #0044BB;
+}
+
+p, 
+:hover{
+    cursor: pointer;
+    color: #CE242B;
+ }
